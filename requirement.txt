@@ -1,0 +1,11 @@
+# This Libraries are requried for this project : 
+
+pyttsx3
+wikipedia
+pygame
+speech_recognition as sr
+datetime
+time
+webbrowser
+os
+requests
